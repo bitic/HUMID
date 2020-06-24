@@ -6,7 +6,7 @@ HUMID (*Hydrological Understanding and Modeling of Iberian Drought*, Comprensió
 
 El proyecto, financiado por el Ministerio de Ciencia, Innovación y Universidades del Gobierno de España tiene un presupuesto total concedido de 111.078,00 EUR (CGL2017-85687-R, AEI/FEDER, UE). Además cuenta con una beca doctoral (PRE2018-085027, AEI/FSE). 
 
-El proyecto HUMID es una contribución al programa internacional [HyMeX]([http://www.url.edu) y a la campaña [LIAISE](https://www.hymex.org/?page=liaise).
+El proyecto HUMID es una contribución al programa internacional [HyMeX](http://www.hymex.org) y a la campaña [LIAISE](https://www.hymex.org/?page=liaise).
 
 ### Resumen
 
@@ -25,7 +25,7 @@ HUMID estudiará, en colaboración con las partes interesadas (stakeholders), c�
 ### Equipo científico
 
 El equipo científico del proyecto se compone de los siguientes miembros:
-- Investigador Principal: Dr. [http://pere.quintanasegui.com](Pere Quintana Seguí) (OE-URL)
+- Investigador Principal: Dr. [Pere Quintana Seguí](http://pere.quintanasegui.com) (OE-URL)
 - Miembro del equipo científico: Dr. Luis Garrote (UPM)
 - Post-doc: Dr. Jaime Gaona (OE-URL)
 - Doctorando FPI: Omar Cenobio Cruz (OE-URL)
