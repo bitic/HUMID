@@ -1,4 +1,4 @@
-## Resumen
+## Resumen del proyecto HUMID
 
 La sequía es un importante riesgo climático resultado de complejas interacciones entre procesos atmosféricos, procesos en la superficie continental y la gestión de los recursos. La sequía tiene un gran impacto socioeconómico en España debido a la escasez y el alto aprovechamiento del recurso. Los estudios recientes muestran que la sequía está aumentando en frecuencia y es más severa. Los escenarios climáticos muestran que la sequía seguirá aumentando en intensidad, severidad y duración en el futuro, causando más competición por los recursos hídricos.
 

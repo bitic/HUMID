@@ -4,7 +4,7 @@
 
 HUMID (*Hydrological Understanding and Modeling of Iberian Drought*, Comprensión y modelización hidrológica de la sequía ibérica) es un proyecto de investigación del [Observatorio del Ebro](http://www.obsebre.es]) ([Universitat Ramon Llull]([http://www.url.edu) - [CSIC]([http://www.url.edu)), iniciado en 2018 y de una duración prevista de 3 años, que tiene por objetivo estudiar la sequía mediante herramientas de modelización y de teledetección espacial. 
 
-El proyecto, financiado por el Ministerio de Ciencia, Innovación y Universidades del Gobierno de España tiene un presupuesto total concedido de 111.078,00 EUR (CGL2017-85687-R, AEI/FEDER, UE) a los que se añaden una beca doctoral (PRE2018-085027 (AEI/FSE). 
+El proyecto, financiado por el Ministerio de Ciencia, Innovación y Universidades del Gobierno de España tiene un presupuesto total concedido de 111.078,00 EUR (CGL2017-85687-R, AEI/FEDER, UE) a los que se añaden una beca doctoral (PRE2018-085027, AEI/FSE). 
 
 El proyecto HUMID es una contribución al programa internacional [HyMeX]([http://www.url.edu) y a la campaña [LIAISE](https://www.hymex.org/?page=liaise).
 
