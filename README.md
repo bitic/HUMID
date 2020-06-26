@@ -37,7 +37,7 @@ En esta sección presentamos una serie de artículos para explicar la labor del 
 
 ### Otros contenidos
 
-- [Entregables](./engregables.html).
+- [Entregables](./entregables.html).
 - [Datos](./datos.html).
 - [Publicaciones científicas](./publicaciones.html).
 - [Contribuciones a reuniones y congresos](contribuciones.html).
