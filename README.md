@@ -2,7 +2,7 @@
 
 ## Bienvenidos a la página del proyecto HUMID
 
-HUMID (*Hydrological Understanding and Modeling of Iberian Drought*, Comprensión y modelización hidrológica de la sequía ibérica) es un proyecto de investigación del [Observatorio del Ebro](http://www.obsebre.es]) [Universitat Ramon Llull]([http://www.url.edu) - [CSIC]([http://www.url.edu), iniciado en 2018 y de una duración prevista de 3 años, que tiene por objetivo estudiar la sequía mediante herramientas de modelización y de teledetección espacial. El proyecto, financiado por el Ministerio de Ciencia, Innovación y Universidades del Gobierno de España tiene un presupuesto total concedido de 111.078,00 EUR (CGL2017-85687-R, AEI/FEDER, UE) a los que se añaden una beca doctoral (PRE2018-085027 (AEI/FSE). El proyecto HUMID es una contribución al programa internacional [HyMeX]([http://www.url.edu) y a la campaña [LIAISE](https://www.hymex.org/?page=liaise).
+HUMID (*Hydrological Understanding and Modeling of Iberian Drought*, Comprensión y modelización hidrológica de la sequía ibérica) es un proyecto de investigación del [Observatorio del Ebro](http://www.obsebre.es]) ([Universitat Ramon Llull]([http://www.url.edu) - [CSIC]([http://www.url.edu)), iniciado en 2018 y de una duración prevista de 3 años, que tiene por objetivo estudiar la sequía mediante herramientas de modelización y de teledetección espacial. El proyecto, financiado por el Ministerio de Ciencia, Innovación y Universidades del Gobierno de España tiene un presupuesto total concedido de 111.078,00 EUR (CGL2017-85687-R, AEI/FEDER, UE) a los que se añaden una beca doctoral (PRE2018-085027 (AEI/FSE). El proyecto HUMID es una contribución al programa internacional [HyMeX]([http://www.url.edu) y a la campaña [LIAISE](https://www.hymex.org/?page=liaise).
 
 ### Resumen
 
@@ -27,15 +27,16 @@ El equipo científico del proyecto se compone de los siguientes miembros:
 - Doctorando FPI: Omar Cenobio Cruz (OE-URL)
 
 Además, el proyecto cuenta con la participación de:
-- Germán Solé (OE-URL).
-- Dra. María José Escorihuela (isardSAT)
 - Dra. Anaïs Barella Ortiz (OE-URL)
+- Dr. Aaron Boone (CNRS-CNRM)
+- Dra. María José Escorihuela (isardSAT)
 - Dra. Qi Gao (isardSAT)
 - Dra. Florence Habets (CNRS-ENS)
 - Dr. Jan Polcher (CNRS-IPSL)
-- Dr. Aaron Boone (CNRS-CNRM)
-- Dr. Micha Werner (UNESCO-IHE)
+- Germán Solé (OE-URL).
 - Dr. Yves Tramblay (IRD-HSM)
+- Dr. Micha Werner (UNESCO-IHE)
+
 
 ### Artículos de divulgación
 
@@ -60,7 +61,7 @@ En esta sección presentamos una serie de artículos para explicar la labor del 
 
 #### 2019
 
-Oral: Land Surface Interactions with the Atmosphere over the Iberian Semi-Arid Environment (LIAISE).
+- Oral: Land Surface Interactions with the Atmosphere over the Iberian Semi-Arid Environment (LIAISE).
 A. Boone, M. Best, J. Cuxart, J. Polcher, P. Quintana-Seguí, J. Bellvert, J. Brooke, G. Canut-Rocafort and J. Price.
 AGU Fall Meeting 2019.
 
