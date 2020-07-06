@@ -33,7 +33,7 @@ Además, el proyecto cuenta con la participación de:
 
 En esta sección presentamos una serie de artículos para explicar la labor del proyecto HUMID a un público general.
 
-(Todavía no hemos publicado ningún artículo)
+* [Caracterización de sequías mediante datos de satélite y modelos LSMs en el proyecto HUMID](./blog\01-satelite-lsm.html), Jaime Gaona, 06/07/2020.
 
 ### Otros contenidos
 
