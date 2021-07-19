@@ -40,6 +40,7 @@ En esta sección presentamos una serie de artículos para explicar la labor del 
 - [Entregables](./entregables.html).
 - [Datos](./datos.html).
 - [Publicaciones científicas](./publicaciones.html).
+  - [Presentaciones de la reunión final de HUMID](https://www.evernote.com/shard/s2/sh/1b362b28-5d62-f04d-8171-2a3ce96d04e1/27907131465d9c1d505ecf94a81670a5).
 - [Contribuciones a reuniones y congresos](contribuciones.html).
 
 ### Contacto
