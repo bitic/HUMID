@@ -34,6 +34,7 @@ Además, el proyecto cuenta con la participación de:
 En esta sección presentamos una serie de artículos para explicar la labor del proyecto HUMID a un público general.
 
 * [Caracterización de sequías mediante datos de satélite y modelos LSMs en el proyecto HUMID](./blog\01-satelite-lsm.html), Jaime Gaona, 06/07/2020.
+* [Factores complejos que gobiernan la recurrencia de la sequía como riesgo natural en el Ebro](./blog/02-factores-complejos.mkd), Jaime Gaona, 18/04/2021
 
 ### Otros contenidos
 
