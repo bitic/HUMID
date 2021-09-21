@@ -1,8 +1,13 @@
 # Factores complejos que gobiernan la recurrencia de la sequía como riesgo natural en el Ebro
 
-Jaime Gaona, 18/04/2021
+*Jaime Gaona, 18/04/2021*
 
 La sequía en la cuenca del Ebro es un riesgo natural recurrente de gran relevancia para la cuenca del Ebro. Múltiples factores intervienen en la delicada exposición de esta cuenca a la recurrencia de la sequía, entre ellos los climáticos, los orográficos, los geológicos y los usos del suelo.
+
+<figure>
+  <img src="./../images/ebro-patrones.png" alt="Imagen ilustrativa">
+  <figcaption>Patrones de sequía espacial atendiendo a las influencias climáticas de la cuenca</figcaption>
+</figure>
 
 La mayor parte de la cuenca, especialmente su zona central de características más esteparias se encuentra en una localización especialmente vulnerable a las anomalías atmosféricas que desencadenan la sequía, al encontrarse en los límites de las lluvias influencias atlánticas, cantábricas y mediterráneas. 
 
