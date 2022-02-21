@@ -29,20 +29,24 @@ Además, el proyecto cuenta con la participación de:
 - Dr. Yves Tramblay (IRD-HSM)
 - Dr. Micha Werner (UNESCO-IHE)
 
+
+### Artículos científicos
+
+- [Listado completo de publicaciones científicas](./entregables/HUMID_E9a.md).
+- [Listado completo de contribuciones a congresos](./entregables/HUMID_E9b.md)
+
 ### Artículos de divulgación
 
 En esta sección presentamos una serie de artículos para explicar la labor del proyecto HUMID a un público general.
 
-* [Caracterización de sequías mediante datos de satélite y modelos LSMs en el proyecto HUMID](./blog\01-satelite-lsm.html), Jaime Gaona, 06/07/2020.
-* [Factores complejos que gobiernan la recurrencia de la sequía como riesgo natural en el Ebro](./blog/02-factores-complejos.mkd), Jaime Gaona, 18/04/2021
+* [Caracterización de sequías mediante datos de satélite y modelos LSMs en el proyecto HUMID](./blog\01-satelite-lsm.md), Jaime Gaona, 06/07/2020.
+* [Factores complejos que gobiernan la recurrencia de la sequía como riesgo natural en el Ebro](./blog/02-factores-complejos.md), Jaime Gaona, 18/04/2021
 
 ### Otros contenidos
 
-- [Entregables](./entregables.html).
-- [Datos](./datos.html).
-- [Publicaciones científicas](./publicaciones.html).
-  - [Presentaciones de la reunión final de HUMID](https://www.evernote.com/shard/s2/sh/1b362b28-5d62-f04d-8171-2a3ce96d04e1/27907131465d9c1d505ecf94a81670a5).
-- [Contribuciones a reuniones y congresos](contribuciones.html).
+- [Entregables](./entregables.md).
+- [Datos](./datos.md).
+- [Presentaciones de la reunión final de HUMID](https://www.evernote.com/shard/s2/sh/1b362b28-5d62-f04d-8171-2a3ce96d04e1/27907131465d9c1d505ecf94a81670a5).
 
 ### Contacto
 
